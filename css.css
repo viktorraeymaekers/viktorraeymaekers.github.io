@@ -1,12 +1,69 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-</head>
-<body>
-<h1>Test :-)</h1>
-<h4>V4</h4>
-</body>
-</html>
+body {
+  font-family: Lato;
+}
+#header {
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 80%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  text-align: center;
+
+}
+
+#NSFW{
+  width: 100%;
+  background-color: #FF00AA;
+  border: none;
+  height: 50px;
+  font-family: lato;
+  font-size: 20pt;
+  border-radius: 15px;
+}
+
+#IG{
+  width: 100%;
+  background-color: #FF00AA;
+  border: none;
+  height: 50px;
+  font-family: lato;
+  font-size: 20pt;
+  border-radius: 15px;
+
+}
+
+#TT{
+  width: 100%;
+  background-color: #FF00AA;
+  border: none;
+  height: 50px;
+  font-family: lato;
+  font-size: 20pt;
+  border-radius: 15px;
+}
+
+#SC{
+  width: 100%;
+  background-color: #FF00AA;
+  border: none;
+  height: 50px;
+  font-family: lato;
+  font-size: 20pt;
+  border-radius: 15px;
+}
+.button{
+  transition: 0.3s;
+
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.div {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
