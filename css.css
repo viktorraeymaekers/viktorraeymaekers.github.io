@@ -22,15 +22,15 @@ a {
   color: #F2B122;
 }
 
-#NSFW {
+#BeReal {
   width: 100%;
-  background-color: #FF0000;
+  background-color: #000000;
   border: none;
   height: 50px;
   font-family: 'Rubik', sans-serif;
   font-size: 20pt;
   border-radius: 15px;
-  color: #000000;
+  color: #FFFFFF;
 }
 
 #IG {
